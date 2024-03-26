@@ -21,6 +21,10 @@ This firebot setup contains a script for controlling FreeStyler lighting softwar
 - Use a Custom Script effect and choose the custom script, and then the sequence you wish to toggle within the script settings.
 - You could also set up Preset Effect Lists (I've added three examples) Containing one or more custom script effects.
 
+## Notes
+
+I have also included the freestyler documentation incase anyone wants the command lookup chart.
+
 
 ## Author
 
