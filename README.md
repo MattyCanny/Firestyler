@@ -24,7 +24,7 @@ This firebot setup contains a script for controlling FreeStyler lighting softwar
 
 ## Author
 
-[MattyCanny](https://github.com/MattyCanny)
+Chat GPT / [MattyCanny](https://github.com/MattyCanny)
 
 ## Version
 
