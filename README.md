@@ -12,7 +12,7 @@ This firebot setup contains a script for controlling FreeStyler lighting softwar
 1. Import the Firebot setup
 2. In Firebot, navigate to the "Scripts" tab.
 3. Click on "Import Script" and select the downloaded script file (`FireStyler.js`).
-4. The script should now appear in your list of available scripts.
+4. The script should now appear in your list of available scripts in the Custom Script Effect.
 
 ## Usage
 
