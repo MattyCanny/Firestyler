@@ -24,7 +24,7 @@ This firebot setup contains a script for controlling FreeStyler lighting softwar
 ## Notes
 
 I have also included the freestyler documentation incase anyone wants the command lookup chart.
-
+Here is the freestyler website: https://www.freestylerdmx.be/
 
 ## Author
 
